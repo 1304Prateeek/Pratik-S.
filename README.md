@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Sapkale</h1>
-<h3 align="center">An Operations Lead with a passion for FSD & ML alongside Open Source</h3>
+<h3 align="center">Working as Operations Lead with a passion for FSD & ML alongside Open Source</h3>
 
 - 🌱 I’m currently learning **Full Stack Development Tools**
 
