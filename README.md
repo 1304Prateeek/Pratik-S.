@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Sapkale</h1>
-<h3 align="center">Working as Operations Lead with a passion for FSD & ML alongside Open Source</h3>
+<h3 align="center">Working as Operations Lead and sometimes exploring FSD & ML alongside Open Source</h3>
 
 - 🌱 I’m currently learning **Full Stack Development Tools**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pratiksapkale.rj@gmail.com**
 
-- ⚡ Fun fact **I like playing snooker and watching COD gameplay**
+- ⚡ Fun fact **Call of Duty Game Geek**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
