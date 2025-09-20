@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Sapkale</h1>
 <h3 align="center">Working as Operations Lead and sometimes exploring FSD & ML alongside Open Source</h3>
 
-- 🌱 I’m currently learning **Full Stack Development Tools**
+- 🌱 I’m currently exploring **Full Stack Development Tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/1304Prateeek](https://github.com/1304Prateeek)
 
